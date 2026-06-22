@@ -1,0 +1,11 @@
+# Alt dizinde kurulum için public_html köküne kopyalayın ve RewriteBase'i düzenleyin.
+# Tercih edilen yöntem: domain document root = public klasörü
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^index\.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+</IfModule>

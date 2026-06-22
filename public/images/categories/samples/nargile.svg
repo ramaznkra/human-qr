@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Nargile">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b1f2f"/>
+      <stop offset="100%" stop-color="#4b2f56"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g3)"/>
+  <circle cx="900" cy="180" r="170" fill="#C6A046" opacity="0.16"/>
+  <text x="70" y="380" fill="#F5EDF8" font-size="98" font-family="Arial, sans-serif" font-weight="700">NARGILE</text>
+  <text x="74" y="450" fill="#E8DDF0" font-size="36" font-family="Arial, sans-serif">Human Social Menu</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Yiyecek">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3d2c1e"/>
+      <stop offset="100%" stop-color="#9E4E2C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g1)"/>
+  <circle cx="980" cy="140" r="150" fill="#C6A046" opacity="0.2"/>
+  <text x="70" y="380" fill="#F7EEDB" font-size="98" font-family="Arial, sans-serif" font-weight="700">YIYECEK</text>
+  <text x="74" y="450" fill="#E9D8B0" font-size="36" font-family="Arial, sans-serif">Human Social Menu</text>
+</svg>
