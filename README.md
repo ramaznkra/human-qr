@@ -205,12 +205,6 @@ composer install
 npm install
 ```
 
-Sonra manuel çalıştırma komutlarını ayrı terminallerde dene.
-
-### Türkçe karakter bozulması
-
-Dosyaları UTF-8 olarak kaydetmek gerekir. Türkçe metinlerde bozulma görürsen önce dosyanın encoding ayarını kontrol et.
-
 ## Geliştirme notları
 
 Bu proje local geliştirme için hazırlanmış bir kafe otomasyonu çalışmasıdır. Öncelik QR menü, kasa ve garson operasyonunun stabil ilerlemesidir. Daha sonra gerçek POS entegrasyonu, audit log, iade/iptal ve raporlama gibi alanlar geliştirilebilir.
